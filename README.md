@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+
+![visitors](https://komarev.com/ghpvc/?username=xietao02)
 
 ![xietao02's GitHub stats](https://github-readme-stats-xietao02s-projects.vercel.app/api?username=xietao02&count_private=true&show_icons=true&theme=nord&hide=contribs)
 
 
 <!--
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xietao02.visitor-badge&left_color=green&right_color=red)
 
 **xietao02/xietao02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
