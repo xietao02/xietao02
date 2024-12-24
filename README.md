@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+![xietao02's GitHub stats](https://github-readme-stats-xietao02s-projects.vercel.app/api?username=xietao02&count_private=true&show_icons=true&theme=nord&hide=contribs)
+
+
 <!--
+
+
 **xietao02/xietao02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
