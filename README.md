@@ -1,8 +1,24 @@
-### Hi there 👋 
+<h3 align="center">Hi, and WELCOME 👋 你好, 欢迎！</h3>
 
-![visitors](https://komarev.com/ghpvc/?username=xietao02)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xietao02" alt="Profile Visits">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="coding">
+</p>
 
-![xietao02's GitHub stats](https://github-readme-stats-xietao02s-projects.vercel.app/api?username=xietao02&count_private=true&show_icons=true&theme=nord&hide=contribs)
+<p align="center">
+  <img src="https://github-readme-stats-xietao02s-projects.vercel.app/api?username=xietao02&count_private=true&show_icons=true&theme=nord&hide=contribs&include_all_commits=true&rank_icon=percentile" alt="xietao02's GitHub stats">
+</p>
+
+<h3>Hi, and WELCOME 👋 你好, 欢迎！</h3>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=xietao02" alt="Profile Visits">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="coding">
+</p>
+
+<p>
+  <img src="https://github-readme-stats-xietao02s-projects.vercel.app/api?username=xietao02&count_private=true&show_icons=true&theme=nord&hide=contribs&include_all_commits=true&rank_icon=percentile" alt="xietao02's GitHub stats">
+</p>
 
 
 <!--
